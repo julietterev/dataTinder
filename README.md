@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # Tinder et l'amour grâce aux données : se quantifier pour rencontrer l'autre 📱❤️‍🔥  
 > The How Couples Meet and Stay Together Study (Rosenfeld, Michael J., Reuben J. Thomas, and Sonia Hausen. 2017. Stanford, CA: Stanford University Libraries.)
 
