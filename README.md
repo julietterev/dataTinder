@@ -76,10 +76,10 @@ L’enquête de Judith Duportail
 La journaliste Judith Duportail s’est fait connaître en publiant dans le Guardian, ce qu’elle avait appris en demandant à Tinder une copie de ses propres données. Elle avait reçu un document de huit cents pages détaillant des informations très personnelles et des conversations Tinder stockées sur les serveurs de l’entreprise.
 L’objet de son enquête commence lorsqu’elle entend parler d’un « score » attribué à l’utilisateur de Tinder en fonction de son succès sur l’application : l’Elo score. 
 Révélée par l’un des fondateurs de Tinder, Sean Rad, dans un article du magazine Fast Company, en 2016, une cote de désirabilité serait accordée par l’application à ses utilisateurs en fonction des likes obtenus, cote qui déterminera les profils qui seront présentés à l’utilisateur, principalement des gens ayant un score de désirabilité Tinder similaire (Carr, 2016).Un exemple qui montre donc que Tinder ne présente pas les mêmes profils dans le même ordre de manière égalitaire, et que de nombreux critères, parfois inconnus des utilisateurs, régissent la manière dont les  match peuvent être générés.
-
 Au fil de son enquête, elle parvient à trouver un  brevet accessible librement sur Internet, détaillant des paramètres possibles du fonctionnement du système de match.
-Le système comporte même des paramètres issus de conceptions plutôt stéréotypées de la vie amoureuse moderne.
-
+Le système comporte même des paramètres issus de conceptions plutôt stéréotypées de la vie amoureuse moderne. 
+<br>
+       
 Ainsi, le brevet affirme la possibilité qu’un homme âgé de dix ans de plus et disposant d’un plus gros salaire qu’une femme soit davantage susceptible d’être montré dans Tinder à cette femme, que l’inverse. Cette vision est montrée du doigt par Judith Duportail, qui rappelle que de nombreuses applications sociales sont conçues par des ingénieurs masculins qui répercutent des stéréotypes masculins.
 Dans le dernier communiqué de l’entreprise, publié le 15 mars 2019, le communiqué de Tinder explique ainsi que l’Elo score a bien été utilisé un temps au sein de l’application, même s’il n’est aujourd’hui « plus d’actualité chez Tinder ». « Cette partie de notre algorithme comparait les “swipes” à gauche et à droite, et servait à vous présenter des matchs potentiels susceptibles de vous correspondre, d’après les similarités avec lesquelles les autres interagissent sur les profils. » 
 Aujourd’hui, il est encore impossible de savoir dans quelle mesure ce qui apparaît dans le brevet trouvé par Mme Duportail est techniquement implémenté dans l’application. Les GAFAM déposent fréquemment des brevets pour protéger les évolutions de leurs interfaces ou de leurs codes, sans les utiliser nécessairement.  
