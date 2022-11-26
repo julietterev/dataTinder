@@ -1,8 +1,7 @@
 # Tinder et l'amour grâce aux données : se quantifier pour rencontrer l'autre 📱❤️‍🔥  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/115630274/203495234-4c758b0f-f577-4a9d-aa5b-f2d9d8fcc9dc.jpeg" width="1050" height="360">
-<br>
-  
+
 ## Introduction
 <p align="justify">
 En septembre 2022, l’application de dating Tinder a fêté ses dix ans. Alors que la plateforme connue pour sa flamme est encore extrêmement populaire en France (première au classement des applications de rencontre sur l’App Store d’Apple), il est possible de tourner le regard en arrière vers une décennie de collecte de données qui constituent une véritable base à étudier dans le cadre de la révolution par le numérique de nos intéractions sociales. Tinder, c’est un total d’environ 57 millions d’utilisateurs, dans 190 pays, et dans 40 langues différentes. Depuis les années 2010, Internet s’est imposé comme allié majeur des rencontres. L’étude réalisée en 2009 par Michael Rosenfeld, The How Couples Meet and Stay Together Study (HCMST) réalisée pour la Social Science Data Collection de Stanford, a été réitérée en 2017 pour prendre en compte le poids des nouveaux acteurs numériques dans la formation des couples.
@@ -12,9 +11,11 @@ Le swipe est devenu un néologisme courant, connu de ceux en quête de l’amour
 Parmi les 3500 état-uniens interrogés par l’étude HCMST de 2017, (CHIFFRE) ont indiqué Tinder comme étant leur application favorite. Comment concevoir la base de données Tinder ? Quel est le poids porté par les données dans le fonctionnement de cette application ? Il est difficile d’envisager l’ampleur complète de l’usage qui est fait des données, mais de nombreuses pistes permettent de mettre au clair bien des mystères relatifs à cette quantification de la rencontre. La base de données de Tinder n’étant, tout comme son algorithme, pas publique, la présente enquête se fonde sur de nombreuses études recueillies mais aussi l’enquête ciblée réalisée en 2019 par la journaliste Judith Duportail.
 
 ## Le profil d'utilisateur comme base de données
+
 ```
 Le phénomène Tinder
 ```
+
 <p align="justify">
 Le 12 septembre 2012 marque l’apparition de Tinder. L’application de rencontre propose de « swiper » pour faire savoir son intérêt quant à la mini-biographie et la photographie d’un autre utilisateur : vers la gauche pour un non, vers la droite pour un oui. Lorsque l’approbation est réciproque, alors il y a match. Aujourd’hui, Tinder compte plus de 50 millions d’utilisateurs dans le monde et il s’agit de l’une des applications de rencontres les plus téléchargées à l’échelle mondiale. La popularité grandissante des applications de rencontres est conduite par plusieurs facteurs. l’un étant l’accroissement des déplacements des personnes pour le travail, s’éloignant parfois d’amis ou de proches qui pouvaient jouer un rôle dans la rencontre amoureuse, la généralisation des smartphones et des algorithmes au service de notre quotidien  : jusque dans nos vies amoureuses. La crise de la COVID 19 et ses confinements ont également servi de cadre propice à la découverte de ces applications pour des personnes qui pouvaient s'avérer jusque-là hésitantes.
 <img align="right" width="500" height="265" src="https://user-images.githubusercontent.com/115630274/203504601-663bee3c-b829-4fbe-878e-48d0330153bc.gif">
@@ -40,6 +41,7 @@ Alors que Tinder était originellement présenté comme une la possibilité d’
 ```
 Les gestionnaires 
 ```
+
 <p align="justify">
 Si l’on parle d’exploitation des données et de profit, il importe de mentionner les acteurs principaux dudit profit. A la tête de Tinder se trouve Match Group, société fondée en 1986, prenant désormais la forme d’un conglomérat, coté en bourse. La première chose qui frappe lorsque l’on considère un tel groupe, c’est son importance dans le domaine du dating. La société possède un nombre impressionnant de plateformes de rencontre, parmi lesquelles OkCupid, Hinge, Meetic, Match.com et bien d’autres. A partir du lancement de Tinder en 2012, après son incubation au sein d’un incubateur partenaire du groupe, l’activité de Match Group se développe encore plus. Ce même groupe lance Tinder Gold en 2017, ce qui fait de Tinder l’application la plus rentable parmi celles qui ne sont pas des jeux. 
 <p align="justify">
@@ -48,9 +50,11 @@ Le groupe a également inséré des publicités dans l’application. Celles-ci 
 Il est cela dit intéressant de souligner qu’à la différence de nombreuses plateformes existantes aujourd’hui, la publicité n’est pas la source principale de profit de Tinder, qui gagne largement plus grâce à des services d’abonnement, qui se sont multipliés avec le temps. Il existe trois formules d’abonnement à ce jour, Tinder Plus (48,99€/6 mois), Tinder Gold (81,99€/6 mois) et Tinder Platinium 98,99€/6 mois). Les prix sont assez élevés, et permettent de comprendre que les gestionnaires de l’application favorisent un usage des données se tournant vers l’incitation à l’abonnement…
 
 ## II. Enquête sur des bases de données : quelles sont les données en jeu ? A quoi l’utilisateur européen peut-il avoir accès ? 
+
 ```
 L’enquête de Judith Duportail 
 ```
+
 <p align="justify">
 La journaliste Judith Duportail s’est fait connaître en publiant dans le Guardian, ce qu’elle avait appris en demandant à Tinder une copie de ses propres données. Elle avait reçu un document de huit cents pages détaillant des informations très personnelles et des conversations Tinder stockées sur les serveurs de l’entreprise.
 L’objet de son enquête commence lorsqu’elle entend parler d’un « score » attribué à l’utilisateur de Tinder en fonction de son succès sur l’application : l’Elo score. 
