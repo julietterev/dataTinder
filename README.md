@@ -75,7 +75,7 @@ Si l’on parle d’exploitation des données et de profit, il importe de mentio
 </br>
 <br>
 ```
-L’enquête de Judith Duportails 
+L’enquête de Judith Duportail 
 ```
 <p align=right>
 </p>
