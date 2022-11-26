@@ -12,7 +12,9 @@ Parmi les 3500 état-uniens interrogés par l’étude HCMST de 2017, (CHIFFRE) 
 
 ## Le profil d'utilisateur comme base de données
 
->Le phénomène Tinder
+```
+Le phénomène Tinder
+```
 
 <p align="justify">
 Le 12 septembre 2012 marque l’apparition de Tinder. L’application de rencontre propose de « swiper » pour faire savoir son intérêt quant à la mini-biographie et la photographie d’un autre utilisateur : vers la gauche pour un non, vers la droite pour un oui. Lorsque l’approbation est réciproque, alors il y a match. Aujourd’hui, Tinder compte plus de 50 millions d’utilisateurs dans le monde et il s’agit de l’une des applications de rencontres les plus téléchargées à l’échelle mondiale. La popularité grandissante des applications de rencontres est conduite par plusieurs facteurs. l’un étant l’accroissement des déplacements des personnes pour le travail, s’éloignant parfois d’amis ou de proches qui pouvaient jouer un rôle dans la rencontre amoureuse, la généralisation des smartphones et des algorithmes au service de notre quotidien  : jusque dans nos vies amoureuses. La crise de la COVID 19 et ses confinements ont également servi de cadre propice à la découverte de ces applications pour des personnes qui pouvaient s'avérer jusque-là hésitantes.
@@ -24,8 +26,9 @@ Tinder a d’abord été lancé dans les cercles de grandes écoles américaines
 <p align="justify">
 Concernant leur l’âge, des études un peu plus récentes ont fait ressortir des âges médians se situant aux environs de la quarantaine (Valkenburg et Peter, 2007). Par ailleurs, le mensonge sur l’âge serait fréquent sur les sites de rencontre, ce qui pourrait expliquer un âge médian plus bas que l’âge médian véritable de ses utilisateurs (Bergström, 2019). En outre, il semblerait que, dans l’ensemble, tous les âges, niveaux d’éducation et les statuts socioéconomiques sont représentés chez les utilisateurs des sites de rencontre (Anderson et Emmers- Sommer, 2006). Il pourrait donc en être de même pour les utilisateurs de Tinder. Toutefois, aucune enquête n’a permis de dresser un profil général des utilisateurs et les concepteurs se gardent de dévoiler ces informations.
 
->Le marché de la rencontre : les données au service du profit 
-
+```
+Le marché de la rencontre : les données au service du profit 
+```
 <p align="justify">
 Depuis sa création en 2012, Tinder est le sujet de certains débats qui le condamnent ou au contraire le louent. Sur l’application Instagram, le compte Tinder compte plus de 240 000 abonnés alors que le hashtag #tinder génère à lui seul plus d’un million de publications, en comprenant des marqueurs péjoratifs tels que #tindernightmares, #tinderfails à titre d’exemple. 
 L’abondance de ces marqueurs de métadonnées démontre l’intérêt du public pour l’application. Cependant, les opinions sont mitigées et la culture populaire témoigne de cette polarité. En 2015, le Vanity Fair titrait « Tinder and the Dawn of the Dating apocalypse »  tandis que le Washington Post publiait en 2017 un article intitulé « Why using Tinder is so satisfaying? » . Les critiques négatives accusent Tinder de contribuer à la marchandisation des individus et à une perte d’individualité, où les possibilités de trouver un partenaire sont presque infinies. Certains détracteurs ajoutent même que Tinder viendrait renforcer la culture du sexe récréatif ou sans lendemain.
@@ -35,7 +38,9 @@ Tinder serait comme un gadget visant à augmenter ses performances, mais qui fin
 En effet, on trouve chez Tinder, les grands concepts du néolibéralisme : principe de libre marché, d’efficacité, de choix, de compétition et, donc, d’inégalité! 
 Alors que Tinder était originellement présenté comme une la possibilité d’allumer une flamme amoureuse, l’application multiplie les possibilités, les réseaux et le plaisir.
 
->Les gestionnaires 
+```
+Les gestionnaires 
+```
 
 <p align="justify">
 Si l’on parle d’exploitation des données et de profit, il importe de mentionner les acteurs principaux dudit profit. A la tête de Tinder se trouve Match Group, société fondée en 1986, prenant désormais la forme d’un conglomérat, coté en bourse. La première chose qui frappe lorsque l’on considère un tel groupe, c’est son importance dans le domaine du dating. La société possède un nombre impressionnant de plateformes de rencontre, parmi lesquelles OkCupid, Hinge, Meetic, Match.com et bien d’autres. A partir du lancement de Tinder en 2012, après son incubation au sein d’un incubateur partenaire du groupe, l’activité de Match Group se développe encore plus. Ce même groupe lance Tinder Gold en 2017, ce qui fait de Tinder l’application la plus rentable parmi celles qui ne sont pas des jeux. 
@@ -46,7 +51,9 @@ Il est cela dit intéressant de souligner qu’à la différence de nombreuses p
 
 ## II. Enquête sur des bases de données : quelles sont les données en jeu ? A quoi l’utilisateur européen peut-il avoir accès ? 
 
->L’enquête de Judith Duportail 
+```
+L’enquête de Judith Duportail 
+```
 
 <p align="justify">
 La journaliste Judith Duportail s’est fait connaître en publiant dans le Guardian, ce qu’elle avait appris en demandant à Tinder une copie de ses propres données. Elle avait reçu un document de huit cents pages détaillant des informations très personnelles et des conversations Tinder stockées sur les serveurs de l’entreprise.
@@ -57,4 +64,4 @@ Le système comporte même des paramètres issus de conceptions plutôt stéréo
 <p align="justify">
 Ainsi, le brevet affirme la possibilité qu’un homme âgé de dix ans de plus et disposant d’un plus gros salaire qu’une femme soit davantage susceptible d’être montré dans Tinder à cette femme, que l’inverse. Cette vision est montrée du doigt par Judith Duportail, qui rappelle que de nombreuses applications sociales sont conçues par des ingénieurs masculins qui répercutent des stéréotypes masculins.
 Dans le dernier communiqué de l’entreprise, publié le 15 mars 2019, le communiqué de Tinder explique ainsi que l’Elo score a bien été utilisé un temps au sein de l’application, même s’il n’est aujourd’hui « plus d’actualité chez Tinder ». « Cette partie de notre algorithme comparait les “swipes” à gauche et à droite, et servait à vous présenter des matchs potentiels susceptibles de vous correspondre, d’après les similarités avec lesquelles les autres interagissent sur les profils. » 
-Aujourd’hui, il est encore impossible de savoir dans quelle mesure ce qui apparaît dans le brevet trouvé par Mme Duportail est techniquement implémenté dans l’application. Les GAFAM déposent fréquemment des brevets pour protéger les évolutions de leurs interfaces ou de leurs codes, sans les utiliser nécessairement.  
+Aujourd’hui, il est encore impossible de savoir dans quelle mesure ce qui apparaît dans le brevet trouvé par Mme Duportail est techniquement implémenté dans l’application. Les GAFAM déposent fréquemment des brevets pour protéger les évolutions de leurs interfaces ou de leurs codes, sans les utiliser nécessairement.
