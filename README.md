@@ -1,7 +1,8 @@
 # Tinder et l'amour grâce aux données : se quantifier pour rencontrer l'autre 📱❤️‍🔥  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/115630274/203495234-4c758b0f-f577-4a9d-aa5b-f2d9d8fcc9dc.jpeg" width="1050" height="360">
-
+<br>
+  
 ## Introduction
 <p align="justify">
 En septembre 2022, l’application de dating Tinder a fêté ses dix ans. Alors que la plateforme connue pour sa flamme est encore extrêmement populaire en France (première au classement des applications de rencontre sur l’App Store d’Apple), il est possible de tourner le regard en arrière vers une décennie de collecte de données qui constituent une véritable base à étudier dans le cadre de la révolution par le numérique de nos intéractions sociales. Tinder, c’est un total d’environ 57 millions d’utilisateurs, dans 190 pays, et dans 40 langues différentes. Depuis les années 2010, Internet s’est imposé comme allié majeur des rencontres. L’étude réalisée en 2009 par Michael Rosenfeld, The How Couples Meet and Stay Together Study (HCMST) réalisée pour la Social Science Data Collection de Stanford, a été réitérée en 2017 pour prendre en compte le poids des nouveaux acteurs numériques dans la formation des couples.
