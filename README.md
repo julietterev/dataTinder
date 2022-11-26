@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 # Tinder et l'amour grâce aux données : se quantifier pour rencontrer l'autre 📱❤️‍🔥  
 <br>
 <br>
