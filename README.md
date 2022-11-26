@@ -10,7 +10,7 @@ Le swipe est devenu un néologisme courant, connu de ceux en quête de l’amour
 Parmi les 3500 état-uniens interrogés par l’étude HCMST de 2017, (CHIFFRE) ont indiqué Tinder comme étant leur application favorite. Comment concevoir la base de données Tinder ? Quel est le poids porté par les données dans le fonctionnement de cette application ? Il est difficile d’envisager l’ampleur complète de l’usage qui est fait des données, mais de nombreuses pistes permettent de mettre au clair bien des mystères relatifs à cette quantification de la rencontre. La base de données de Tinder n’étant, tout comme son algorithme, pas publique, la présente enquête se fonde sur de nombreuses études recueillies mais aussi l’enquête ciblée réalisée en 2019 par la journaliste Judith Duportail.
 
 ## Le profil d'utilisateur comme base de données
-##### _Le phénomène Tinder_
+##### Le phénomène Tinder
 
 Le 12 septembre 2012 marque l’apparition de Tinder. L’application de rencontre propose de « swiper » pour faire savoir son intérêt quant à la mini-biographie et la photographie d’un autre utilisateur : vers la gauche pour un non, vers la droite pour un oui. Lorsque l’approbation est réciproque, alors il y a match. Aujourd’hui, Tinder compte plus de 50 millions d’utilisateurs dans le monde et il s’agit de l’une des applications de rencontres les plus téléchargées à l’échelle mondiale. La popularité grandissante des applications de rencontres est conduite par plusieurs facteurs. l’un étant l’accroissement des déplacements des personnes pour le travail, s’éloignant parfois d’amis ou de proches qui pouvaient jouer un rôle dans la rencontre amoureuse, la généralisation des smartphones et des algorithmes au service de notre quotidien  : jusque dans nos vies amoureuses. La crise de la COVID 19 et ses confinements ont également servi de cadre propice à la découverte de ces applications pour des personnes qui pouvaient s'avérer jusque-là hésitantes.
 <img align="right" width="250" height="150" src="https://user-images.githubusercontent.com/115630274/203504601-663bee3c-b829-4fbe-878e-48d0330153bc.gif">
@@ -21,7 +21,7 @@ Tinder a d’abord été lancé dans les cercles de grandes écoles américaines
 
 Concernant leur l’âge, des études un peu plus récentes ont fait ressortir des âges médians se situant aux environs de la quarantaine (Valkenburg et Peter, 2007). Par ailleurs, le mensonge sur l’âge serait fréquent sur les sites de rencontre, ce qui pourrait expliquer un âge médian plus bas que l’âge médian véritable de ses utilisateurs (Bergström, 2019). En outre, il semblerait que, dans l’ensemble, tous les âges, niveaux d’éducation et les statuts socioéconomiques sont représentés chez les utilisateurs des sites de rencontre (Anderson et Emmers- Sommer, 2006). Il pourrait donc en être de même pour les utilisateurs de Tinder. Toutefois, aucune enquête n’a permis de dresser un profil général des utilisateurs et les concepteurs se gardent de dévoiler ces informations.
 
-##### _Le marché de la rencontre : les données au service du profit_
+##### Le marché de la rencontre : les données au service du profit
 
 Depuis sa création en 2012, Tinder est le sujet de certains débats qui le condamnent ou au contraire le louent. Sur l’application Instagram, le compte Tinder compte plus de 240 000 abonnés alors que le hashtag #tinder génère à lui seul plus d’un million de publications, en comprenant des marqueurs péjoratifs tels que #tindernightmares, #tinderfails à titre d’exemple. 
 L’abondance de ces marqueurs de métadonnées démontre l’intérêt du public pour l’application. Cependant, les opinions sont mitigées et la culture populaire témoigne de cette polarité. En 2015, le Vanity Fair titrait « Tinder and the Dawn of the Dating apocalypse »  tandis que le Washington Post publiait en 2017 un article intitulé « Why using Tinder is so satisfaying? » . Les critiques négatives accusent Tinder de contribuer à la marchandisation des individus et à une perte d’individualité, où les possibilités de trouver un partenaire sont presque infinies. Certains détracteurs ajoutent même que Tinder viendrait renforcer la culture du sexe récréatif ou sans lendemain.
@@ -32,7 +32,7 @@ En effet, on trouve chez Tinder, les grands concepts du néolibéralisme : princ
 Alors que Tinder était originellement présenté comme une la possibilité d’allumer une flamme amoureuse, l’application multiplie les possibilités, les réseaux et le plaisir.
 
 
-##### _L’enquête de Judith Duportail_
+##### Les gestionnaires
 
 
 Si l’on parle d’exploitation des données et de profit, il importe de mentionner les acteurs principaux dudit profit. A la tête de Tinder se trouve Match Group, société fondée en 1986, prenant désormais la forme d’un conglomérat, coté en bourse. La première chose qui frappe lorsque l’on considère un tel groupe, c’est son importance dans le domaine du dating. La société possède un nombre impressionnant de plateformes de rencontre, parmi lesquelles OkCupid, Hinge, Meetic, Match.com et bien d’autres. A partir du lancement de Tinder en 2012, après son incubation au sein d’un incubateur partenaire du groupe, l’activité de Match Group se développe encore plus. Ce même groupe lance Tinder Gold en 2017, ce qui fait de Tinder l’application la plus rentable parmi celles qui ne sont pas des jeux. 
@@ -43,7 +43,7 @@ Il est cela dit intéressant de souligner qu’à la différence de nombreuses p
 
 ## II. Enquête sur des bases de données : quelles sont les données en jeu ? A quoi l’utilisateur européen peut-il avoir accès ? 
 
-##### _L’enquête de Judith Duportail_
+##### L’enquête de Judith Duportail
 
 La journaliste Judith Duportail s’est fait connaître en publiant dans le Guardian, ce qu’elle avait appris en demandant à Tinder une copie de ses propres données. Elle avait reçu un document de huit cents pages détaillant des informations très personnelles et des conversations Tinder stockées sur les serveurs de l’entreprise.
 L’objet de son enquête commence lorsqu’elle entend parler d’un « score » attribué à l’utilisateur de Tinder en fonction de son succès sur l’application : l’Elo score. 
