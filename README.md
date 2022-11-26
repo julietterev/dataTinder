@@ -1,4 +1,3 @@
-
 # Tinder et l'amour grâce aux données : se quantifier pour rencontrer l'autre 📱❤️‍🔥  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/115630274/203495234-4c758b0f-f577-4a9d-aa5b-f2d9d8fcc9dc.jpeg" width="1050" height="360">
@@ -26,7 +25,6 @@ Tinder a d’abord été lancé dans les cercles de grandes écoles américaines
 <p align="justify">
 Concernant leur l’âge, des études un peu plus récentes ont fait ressortir des âges médians se situant aux environs de la quarantaine (Valkenburg et Peter, 2007). Par ailleurs, le mensonge sur l’âge serait fréquent sur les sites de rencontre, ce qui pourrait expliquer un âge médian plus bas que l’âge médian véritable de ses utilisateurs (Bergström, 2019). En outre, il semblerait que, dans l’ensemble, tous les âges, niveaux d’éducation et les statuts socioéconomiques sont représentés chez les utilisateurs des sites de rencontre (Anderson et Emmers- Sommer, 2006). Il pourrait donc en être de même pour les utilisateurs de Tinder. Toutefois, aucune enquête n’a permis de dresser un profil général des utilisateurs et les concepteurs se gardent de dévoiler ces informations.
 
-
 ```
 Le marché de la rencontre : les données au service du profit 
 ```
@@ -49,22 +47,17 @@ Le groupe a également inséré des publicités dans l’application. Celles-ci 
 <p align="justify">
 Il est cela dit intéressant de souligner qu’à la différence de nombreuses plateformes existantes aujourd’hui, la publicité n’est pas la source principale de profit de Tinder, qui gagne largement plus grâce à des services d’abonnement, qui se sont multipliés avec le temps. Il existe trois formules d’abonnement à ce jour, Tinder Plus (48,99€/6 mois), Tinder Gold (81,99€/6 mois) et Tinder Platinium 98,99€/6 mois). Les prix sont assez élevés, et permettent de comprendre que les gestionnaires de l’application favorisent un usage des données se tournant vers l’incitation à l’abonnement…
 
-
 ## II. Enquête sur des bases de données : quelles sont les données en jeu ? A quoi l’utilisateur européen peut-il avoir accès ? 
 ```
 L’enquête de Judith Duportail 
 ```
-<body>
 <p align="justify">
 La journaliste Judith Duportail s’est fait connaître en publiant dans le Guardian, ce qu’elle avait appris en demandant à Tinder une copie de ses propres données. Elle avait reçu un document de huit cents pages détaillant des informations très personnelles et des conversations Tinder stockées sur les serveurs de l’entreprise.
 L’objet de son enquête commence lorsqu’elle entend parler d’un « score » attribué à l’utilisateur de Tinder en fonction de son succès sur l’application : l’Elo score. 
 Révélée par l’un des fondateurs de Tinder, Sean Rad, dans un article du magazine Fast Company, en 2016, une cote de désirabilité serait accordée par l’application à ses utilisateurs en fonction des likes obtenus, cote qui déterminera les profils qui seront présentés à l’utilisateur, principalement des gens ayant un score de désirabilité Tinder similaire (Carr, 2016).Un exemple qui montre donc que Tinder ne présente pas les mêmes profils dans le même ordre de manière égalitaire, et que de nombreux critères, parfois inconnus des utilisateurs, régissent la manière dont les  match peuvent être générés.
 Au fil de son enquête, elle parvient à trouver un  brevet accessible librement sur Internet, détaillant des paramètres possibles du fonctionnement du système de match.
 Le système comporte même des paramètres issus de conceptions plutôt stéréotypées de la vie amoureuse moderne. 
-<br>
-       
+<p align="justify">
 Ainsi, le brevet affirme la possibilité qu’un homme âgé de dix ans de plus et disposant d’un plus gros salaire qu’une femme soit davantage susceptible d’être montré dans Tinder à cette femme, que l’inverse. Cette vision est montrée du doigt par Judith Duportail, qui rappelle que de nombreuses applications sociales sont conçues par des ingénieurs masculins qui répercutent des stéréotypes masculins.
 Dans le dernier communiqué de l’entreprise, publié le 15 mars 2019, le communiqué de Tinder explique ainsi que l’Elo score a bien été utilisé un temps au sein de l’application, même s’il n’est aujourd’hui « plus d’actualité chez Tinder ». « Cette partie de notre algorithme comparait les “swipes” à gauche et à droite, et servait à vous présenter des matchs potentiels susceptibles de vous correspondre, d’après les similarités avec lesquelles les autres interagissent sur les profils. » 
 Aujourd’hui, il est encore impossible de savoir dans quelle mesure ce qui apparaît dans le brevet trouvé par Mme Duportail est techniquement implémenté dans l’application. Les GAFAM déposent fréquemment des brevets pour protéger les évolutions de leurs interfaces ou de leurs codes, sans les utiliser nécessairement.  
-
-</html>
