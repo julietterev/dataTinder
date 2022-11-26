@@ -45,6 +45,7 @@ Concernant leur l’âge, des études un peu plus récentes ont fait ressortir d
 Le marché de la rencontre : les données au service du profit 
 ```
 <p align=right>
+</p>
 Depuis sa création en 2012, Tinder est le sujet de certains débats qui le condamnent ou au contraire le louent. Sur l’application Instagram, le compte Tinder compte plus de 240 000 abonnés alors que le hashtag #tinder génère à lui seul plus d’un million de publications, en comprenant des marqueurs péjoratifs tels que #tindernightmares, #tinderfails à titre d’exemple. 
  L’abondance de ces marqueurs de métadonnées démontre l’intérêt du public pour l’application. Cependant, les opinions sont mitigées et la culture populaire témoigne de cette polarité. 
 En 2015, le Vanity Fair titrait « Tinder and the Dawn of the Dating apocalypse »  tandis que le Washington Post publiait en 2017 un article intitulé « Why using Tinder is so satisfaying? » . Les critiques négatives accusent Tinder de contribuer à la marchandisation des individus et à une perte d’individualité, où les possibilités de trouver un partenaire sont presque infinies. Certains détracteurs ajoutent même que Tinder viendrait renforcer la culture du sexe récréatif ou sans lendemain.
@@ -54,3 +55,40 @@ Pour Foucault , le néolibéralisme fait de la  société une sorte de  marché.
 Tinder serait comme un gadget visant à augmenter ses performances, mais qui finalement se révèle fonctionnellement inutile pour remplir sa fonction initiale de favoriser des rencontres amoureuses.
 En effet, on trouve chez Tinder, les grands concepts du néolibéralisme : principe de libre marché, d’efficacité, de choix, de compétition et, donc, d’inégalité! 
 Alors que Tinder était originellement présenté comme une la possibilité d’allumer une flamme amoureuse, l’application multiplie les possibilités, les réseaux et le plaisir.
+</br>
+<br>
+```
+Les gestionnaires 
+```
+<p align=right>
+</p>
+Si l’on parle d’exploitation des données et de profit, il importe de mentionner les acteurs principaux dudit profit. A la tête de Tinder se trouve Match Group, société fondée en 1986, prenant désormais la forme d’un conglomérat, coté en bourse. La première chose qui frappe lorsque l’on considère un tel groupe, c’est son importance dans le domaine du dating. La société possède un nombre impressionnant de plateformes de rencontre, parmi lesquelles OkCupid, Hinge, Meetic, Match.com et bien d’autres. A partir du lancement de Tinder en 2012, après son incubation au sein d’un incubateur partenaire du groupe, l’activité de Match Group se développe encore plus. Ce même groupe lance Tinder Gold en 2017, ce qui fait de Tinder l’application la plus rentable parmi celles qui ne sont pas des jeux. 
+	Le groupe a également inséré des publicités dans l’application. Celles-ci sont mises en avant alors que l’utilisateur swipe entre les profils. Si un annonceur cherche à faire de la publicité sur la plateforme, parmi les premières choses qui sont mises en avant, on trouve : les données. Tinder dispose d’un maillage très fin, ce qui permet de faire de la publicité ultra ciblée aussi bien sur le plan de l’espace que celui des centres d’intérêt. 
+	Il est cela dit intéressant de souligner qu’à la différence de nombreuses plateformes existantes aujourd’hui, la publicité n’est pas la source principale de profit de Tinder, qui gagne largement plus grâce à des services d’abonnement, qui se sont multipliés avec le temps. Il existe trois formules d’abonnement à ce jour, Tinder Plus (48,99€/6 mois), Tinder Gold (81,99€/6 mois) et Tinder Platinium 98,99€/6 mois). Les prix sont assez élevés, et permettent de comprendre que les gestionnaires de l’application favorisent un usage des données se tournant vers l’incitation à l’abonnement… 
+</p>  
+<br>
+
+## II. Enquête sur des bases de données : quelles sont les données en jeu ? A quoi l’utilisateur européen peut-il avoir accès ? 
+<br>
+<body>
+<p align="justify">
+</br>
+<br>
+```
+L’enquête de Judith Duportails 
+```
+<p align=right>
+</p>
+La journaliste Judith Duportail s’est fait connaître en publiant dans le Guardian, ce qu’elle avait appris en demandant à Tinder une copie de ses propres données. Elle avait reçu un document de huit cents pages détaillant des informations très personnelles et des conversations Tinder stockées sur les serveurs de l’entreprise.
+L’objet de son enquête commence lorsqu’elle entend parler d’un « score » attribué à l’utilisateur de Tinder en fonction de son succès sur l’application : l’Elo score. 
+Révélée par l’un des fondateurs de Tinder, Sean Rad, dans un article du magazine Fast Company, en 2016, une cote de désirabilité serait accordée par l’application à ses utilisateurs en fonction des likes obtenus, cote qui déterminera les profils qui seront présentés à l’utilisateur, principalement des gens ayant un score de désirabilité Tinder similaire (Carr, 2016).Un exemple qui montre donc que Tinder ne présente pas les mêmes profils dans le même ordre de manière égalitaire, et que de nombreux critères, parfois inconnus des utilisateurs, régissent la manière dont les  match peuvent être générés.
+
+Au fil de son enquête, elle parvient à trouver un  brevet accessible librement sur Internet, détaillant des paramètres possibles du fonctionnement du système de match.
+Le système comporte même des paramètres issus de conceptions plutôt stéréotypées de la vie amoureuse moderne.
+</p>  
+<br>
+Ainsi, le brevet affirme la possibilité qu’un homme âgé de dix ans de plus et disposant d’un plus gros salaire qu’une femme soit davantage susceptible d’être montré dans Tinder à cette femme, que l’inverse. Cette vision est montrée du doigt par Judith Duportail, qui rappelle que de nombreuses applications sociales sont conçues par des ingénieurs masculins qui répercutent des stéréotypes masculins.
+Dans le dernier communiqué de l’entreprise, publié le 15 mars 2019, le communiqué de Tinder explique ainsi que l’Elo score a bien été utilisé un temps au sein de l’application, même s’il n’est aujourd’hui « plus d’actualité chez Tinder ». « Cette partie de notre algorithme comparait les “swipes” à gauche et à droite, et servait à vous présenter des matchs potentiels susceptibles de vous correspondre, d’après les similarités avec lesquelles les autres interagissent sur les profils. » 
+Aujourd’hui, il est encore impossible de savoir dans quelle mesure ce qui apparaît dans le brevet trouvé par Mme Duportail est techniquement implémenté dans l’application. Les GAFAM déposent fréquemment des brevets pour protéger les évolutions de leurs interfaces ou de leurs codes, sans les utiliser nécessairement.  
+</p>  
+<br>
