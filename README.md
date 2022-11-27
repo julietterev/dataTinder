@@ -58,6 +58,7 @@ Dans le dernier communiqué de l’entreprise, publié le 15 mars 2019, le commu
 Aujourd’hui, il est encore impossible de savoir dans quelle mesure ce qui apparaît dans le brevet trouvé par Mme Duportail est techniquement implémenté dans l’application. Les GAFAM déposent fréquemment des brevets pour protéger les évolutions de leurs interfaces ou de leurs codes, sans les utiliser nécessairement.
 
 ##### Enquête sur des données actuelles
+>"On vous incite à donner toutes ces informations. Des applications comme Tinder profitent d'un phénomène émotionnel simple : nous ne pouvons pas ressentir les données. C'est pourquoi le fait de voir tout imprimé vous frappe. Nous sommes des créatures physiques. Nous avons besoin de matérialité." Luke Stark, sociologue de technologie digitale à Dartmouth University
 
 En 2018, la loi européenne sur le Règlement Général de la Protection des Données (RGPD) contraint les entreprises comme Tinder à dévoiler à tout utilisateur qui le souhaite, les données qu’elles gardent à son sujet. Aujourd’hui, un usager européen peut ainsi, s’il le souhaite, demander à Tinder de lui envoyer ses données, mais il peut également lui demander de supprimer toutes les données à son sujet. Nous avons, dans le cadre de cette étude, engagé une telle demande, à partir d’un profil actif depuis plus de deux ans. Avant de commenter les données récoltées, il convient de revenir sur la démarche en elle-même ainsi que sur ce qu’elle implique véritablement. 
     
