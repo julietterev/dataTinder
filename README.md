@@ -45,6 +45,7 @@ Il est cela dit intéressant de souligner qu’à la différence de nombreuses p
 ## II. Enquête sur des bases de données : quelles sont les données en jeu ? A quoi l’utilisateur européen peut-il avoir accès ? 
 
 ##### L’enquête de Judith Duportail
+[![IMG_3891](https://user-images.githubusercontent.com/115630274/204115566-3d820de4-6114-430f-98f8-fa93986e02c4.jpeg)](https://youtu.be/qoB5SxlfkKM)
 
 La journaliste Judith Duportail s’est fait connaître en publiant dans le Guardian, ce qu’elle avait appris en demandant à Tinder une copie de ses propres données. Elle avait reçu un document de huit cents pages détaillant des informations très personnelles et des conversations Tinder stockées sur les serveurs de l’entreprise.
 L’objet de son enquête commence lorsqu’elle entend parler d’un « score » attribué à l’utilisateur de Tinder en fonction de son succès sur l’application : l’Elo score. 
