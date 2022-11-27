@@ -42,7 +42,7 @@ Le groupe a également inséré des publicités dans l’application. Celles-ci 
 
 Il est cela dit intéressant de souligner qu’à la différence de nombreuses plateformes existantes aujourd’hui, la publicité n’est pas la source principale de profit de Tinder, qui gagne largement plus grâce à des services d’abonnement, qui se sont multipliés avec le temps. Il existe trois formules d’abonnement à ce jour, Tinder Plus (48,99€/6 mois), Tinder Gold (81,99€/6 mois) et Tinder Platinium 98,99€/6 mois). Les prix sont assez élevés, et permettent de comprendre que les gestionnaires de l’application favorisent un usage des données se tournant vers l’incitation à l’abonnement…
 
-## II. Enquête sur des bases de données : quelles sont les données en jeu ? A quoi l’utilisateur européen peut-il avoir accès ? 
+## II. Un fonctionnement volontairement impénétrable ?
 
 ##### L’enquête de Judith Duportail
 [![IMG_3891](https://user-images.githubusercontent.com/115630274/204115566-3d820de4-6114-430f-98f8-fa93986e02c4.jpeg)](https://youtu.be/qoB5SxlfkKM) 
@@ -78,5 +78,13 @@ La seconde, messages, permet d’avoir accès à tous les messages que l’utili
 Enfin, la dernière rubrique, usages, est peut-être celle qui attire le plus l’attention. Elle apparaît comme une longue suite de dates sous le format AAAA-MM-JJ, empilées les unes sur les autres, ce qui rend sa lecture fastidieuse (cf. capture d’écran ci-contre). Entre les dates il est possible de trouver plusieurs catégories : “app_opens” qui indique le nombre d’ouverture de Tinder par jour, “swipe_likes” et “swipe_passes” qui énumèrent respectivement le nombre de profils aimés ou passés, “superlikes” et “matches” dont les noms sont assez évocateurs, “messages_sent” et “messages received” qui permettent là aussi de mesurer l’activité en regardant la fréquence des messages reçus et envoyés. Enfin les catégories “advertising_id” qui est un identifiant individuel attribué à chaque utilisateur dans le cadre de la publicité personnalisée et “idfa” qui est une norme publicitaire d’Apple qui permet de tracker les utilisateurs. 
 
 Les données que Tinder peut envoyer à ses utilisateurs n'apportent pas grand chose d’autre, dans le cas où l’individu a un usage classique de l’application (c’est-à-dire une usage très limité de la farandole de fonctionnalités qui sont proposées sur l’interface). Ce que l’on apprend, c’est qu’aucun geste n’est oublié, et que le moindre clic est enregistré, de l’ouverture de l’application à la réception d’un message. Tout importe, qu’il s’agisse de l’heure à laquelle on se connecte, du lieu où l’on se trouve ou encore du modèle de téléphone que l’on utilise.
+  
+## III. Quelques résultats d'analyses tiers (CHANGER CE TITRE)
+  
+  
+  
+  ![IMG_3879](https://user-images.githubusercontent.com/115630274/204116498-c8e0d30d-100e-48ad-9695-290f3ae5d488.png)
 
+
+![IMG_3885](https://user-images.githubusercontent.com/115630274/204116523-967d3eaa-3d4e-4387-b499-bebdb02d528e.jpeg)
 
