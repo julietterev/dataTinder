@@ -79,12 +79,11 @@ Enfin, la dernière rubrique, usages, est peut-être celle qui attire le plus l�
 
 Les données que Tinder peut envoyer à ses utilisateurs n'apportent pas grand chose d’autre, dans le cas où l’individu a un usage classique de l’application (c’est-à-dire une usage très limité de la farandole de fonctionnalités qui sont proposées sur l’interface). Ce que l’on apprend, c’est qu’aucun geste n’est oublié, et que le moindre clic est enregistré, de l’ouverture de l’application à la réception d’un message. Tout importe, qu’il s’agisse de l’heure à laquelle on se connecte, du lieu où l’on se trouve ou encore du modèle de téléphone que l’on utilise.
   
-## III. Quelques résultats d'analyses tiers (CHANGER CE TITRE)
+## III. Quelques conclusions d'analyses
+##### Une utilsation différente, selon le sexe
   
-  
-  
+  (à analyser)
   ![IMG_3879](https://user-images.githubusercontent.com/115630274/204116498-c8e0d30d-100e-48ad-9695-290f3ae5d488.png)
-
-
 ![IMG_3885](https://user-images.githubusercontent.com/115630274/204116523-967d3eaa-3d4e-4387-b499-bebdb02d528e.jpeg)
 
+ ##### Dompter les algorithmes : comment augmenter ses chances de réussite ? 📈 👩‍❤️‍💋‍👨
