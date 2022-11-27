@@ -86,4 +86,8 @@ Les données que Tinder peut envoyer à ses utilisateurs n'apportent pas grand c
   ![IMG_3879](https://user-images.githubusercontent.com/115630274/204116498-c8e0d30d-100e-48ad-9695-290f3ae5d488.png)
 ![IMG_3885](https://user-images.githubusercontent.com/115630274/204116523-967d3eaa-3d4e-4387-b499-bebdb02d528e.jpeg)
 
- ##### Dompter les algorithmes : comment augmenter ses chances de réussite ? 📈 👩‍❤️‍💋‍👨
+ ##### Dompter les algorithmes : comment augmenter ses chances de réussite ?
+  
+## Conclusion
+  
+## Bibiliographie
