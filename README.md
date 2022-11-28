@@ -124,7 +124,7 @@ Comme dans le cadre de tout algorithme, il est possible d'appréhender quelques 
 - Utilisez Tinder à 21 heures un dimanche pour une audience maximale.
 - Préparez-vous à demander un numéro ou un rendez-vous entre le 20e et le 30e message.
 - Soyez positif, mais pas trop.
-- Envoyez autre chose que " Salut " comme premier message, visez environ 8 mots, utilisez peut-être un emoji et ne soyez pas explicite.
+- Envoyez autre chose que "Salut" comme premier message, visez environ 8 mots, utilisez peut-être un emoji et ne soyez pas explicite.
 - Poser une question dans un premier message diminue en fait vos chances de réussite.
 
 D'autres points intéressants à aborder seraient : 
