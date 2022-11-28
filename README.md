@@ -49,7 +49,7 @@ Alors que Tinder était originellement présenté comme une la possibilité d’
 ##### Les gestionnaires
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/115630274/204173776-72c22f88-a3ac-4fef-96de-9dc578e7971f.jpeg" width="550">
+  <img src="https://user-images.githubusercontent.com/115630274/204175063-1dbb3e49-2875-47ed-9433-0383b5fe7185.jpeg" width="1050" height="360">
   </p>
 
 Si l’on parle d’exploitation des données et de profit, il importe de mentionner les acteurs principaux dudit profit. A la tête de Tinder se trouve Match Group, société fondée en 1986, prenant désormais la forme d’un conglomérat, coté en bourse. La première chose qui frappe lorsque l’on considère un tel groupe, c’est son importance dans le domaine du dating. La société possède un nombre impressionnant de plateformes de rencontre, parmi lesquelles OkCupid, Hinge, Meetic, Match.com et bien d’autres. A partir du lancement de Tinder en 2012, après son incubation au sein d’un incubateur partenaire du groupe, l’activité de Match Group se développe encore plus. Ce même groupe lance Tinder Gold en 2017, ce qui fait de Tinder l’application la plus rentable parmi celles qui ne sont pas des jeux. 
