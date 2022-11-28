@@ -33,6 +33,11 @@ Concernant leur l’âge, des études un peu plus récentes ont fait ressortir d
 Tinder est le sujet de certains débats qui le condamnent ou au contraire le louent. Sur l’application Instagram, le compte Tinder compte plus de 240 000 abonnés alors que le hashtag #tinder génère à lui seul plus d’un million de publications, en comprenant des marqueurs péjoratifs tels que #tindernightmares, #tinderfails à titre d’exemple. 
 L’abondance de ces marqueurs de métadonnées démontre l’intérêt du public pour l’application. Cependant, les opinions sont mitigées et la culture populaire témoigne de cette polarité. En 2015, le Vanity Fair titrait «_Tinder and the Dawn of the Dating apocalypse_ »  tandis que le Washington Post publiait en 2017 un article intitulé «_Why using Tinder is so satisfaying?_ » . Les critiques négatives accusent Tinder de contribuer à la marchandisation des individus et à une perte d’individualité, où les possibilités de trouver un partenaire sont presque infinies.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115630274/204172833-56ed2be0-9031-46a0-8df9-e83d0a6d37d7.png" width="550">
+  </p>
+
+
 Pour Foucault, le néolibéralisme fait de la  société une sorte de  marché. Concernant Tinder, il s’agirait d’une économie des rencontres. L’important sur l’application est la performance, l’utilisateur doit être rentable, les gains en likes ou en rencontres, qualitatives ou quantitatives, doivent dépasser les efforts fournis pour justifier l’utilisation de l’application. 
 Tinder serait comme un gadget visant à augmenter ses performances, mais qui finalement se révèle fonctionnellement inutile pour remplir sa fonction initiale de favoriser des rencontres amoureuses.
 En effet, on trouve chez Tinder, les grands concepts du néolibéralisme : principe de libre marché, d’efficacité, de choix, de compétition et, donc, d’inégalité! 
