@@ -108,12 +108,16 @@ Les conclusions sur l'inactivité romantique et sexuelle des adultes hétérosex
 
 La National Survey of Family Growth, principale enquête sur les relations et la fécondité aux États-Unis, privilégie les mariages et les relations de cohabitation par rapport aux relations informelles dans ses instruments et questions d'enquête. Les relations informelles et les personnes sans partenaire doivent être étudiées davantage, car être sans partenaire est de plus en plus une identité avec laquelle les adultes sont à l'aise (DePaulo 2006 ; Klinenberg 2012).
 Il est possible que l'enquête HCMST révèle moins d'activité romantique chez les adultes célibataires que les enquêtes précédentes parce que les Américains sans partenaire ont vraiment moins de rendez-vous et moins d'activité romantique que les adultes américains sans partenaire. Le statut de célibataire est peut-être devenu plus stable aux États-Unis. Si l'âge adulte sans partenaire est moins une étape intermédiaire entre les relations à long terme, et plus une étape permanente ou semi-permanente en soi (comme l'indique le faible taux d'adultes sans partenaire ayant eu des rendez-vous au cours de l'année écoulée), alors il est nécessaire d'approfondir les recherches sur ce qui motive et soutient les adultes sans partenaire.
-![IMG_3885](https://user-images.githubusercontent.com/115630274/204116523-967d3eaa-3d4e-4387-b499-bebdb02d528e.jpeg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115630274/204116523-967d3eaa-3d4e-4387-b499-bebdb02d528e.jpeg" width="550">
+  </p> 
+
 Parmi les hétérosexuels qui ont eu des rendez-vous, le taux d'utilisation des applications téléphoniques est plus élevé chez les femmes que chez les hommes. L'adoption plus rapide des applications de rencontre par téléphone par les femmes hétérosexuelles pourrait refléter les avantages de la sécurité (en ligne par rapport au hors ligne). La façon dont la plupart des applications téléphoniques exigent que les deux parties expriment leur intérêt avant de pouvoir communiquer peut avantager les femmes, par rapport aux interactions sociales ordinaires en face à face où les hommes s'attendent à dominer et à monopoliser les initiatives relationnelles (Sassler et Miller 2011).
 Les hommes gays ont fait des applications de rencontre par téléphone, en particulier Grindr, un élément central de leurs scènes de rencontre et d'accrochage. Comme l'ont montré Rosenfeld et Thomas (2012), les rencontres sur Internet en général sont plus utiles aux gays et aux lesbiennes qu'aux hétérosexuels, parce que les gays et les lesbiennes se trouvent toujours sur un marché des rencontres mince, où les partenaires potentiels sont difficiles à identifier dans les interactions sociales en face à face.
 
-  (à analyser)
-  ![IMG_3879](https://user-images.githubusercontent.com/115630274/204116498-c8e0d30d-100e-48ad-9695-290f3ae5d488.png)
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/115630274/204116498-c8e0d30d-100e-48ad-9695-290f3ae5d488.png" width="550">
+  </p> 
 
  ##### Quelques conseils pour augmenter ses chances de réussite...
  Utilisez Tinder à 21 heures un dimanche pour une audience maximale.
