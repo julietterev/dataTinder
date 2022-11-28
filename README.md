@@ -96,12 +96,28 @@ Les hommes gays ont fait des applications de rencontre par téléphone, en parti
   ![IMG_3879](https://user-images.githubusercontent.com/115630274/204116498-c8e0d30d-100e-48ad-9695-290f3ae5d488.png)
 
  ##### Quelques conseils pour augmenter ses chances de réussite...
-  
+ Utilisez Tinder à 21 heures un dimanche pour une audience maximale.
+	Préparez-vous à demander un numéro ou un rendez-vous entre le 20e et le 30e message.
+	Soyez positif, mais pas trop.
+	Envoyez autre chose que " hey " comme premier message, visez environ 8 mots, utilisez peut-être un emoji et ne soyez pas explicite.
+	Rassemblez plus de données
+	Faites-en plus pour déterminer les résultats statistiquement significatifs par rapport aux observations.
+	Examinez l'analyse des conversations par thème - quels types de messages composent les bons et les mauvais sentiments ?
+	Essayez d'étudier le sarcasme
+	Examinez d'autres applications (Bumble, Hinge, etc.).
+	Une sorte d'analyse de classification si plus de données étaient incluses, car nous n'avons eu que 70 succès environ.
+	Examiner plus en détail la répartition des sexes si plus de données étaient incluses.
+Quelques faits intéressants tirés des données :
+	Le plus grand nombre de swipes par une seule personne en un seul jour : 8096
+	Les hommes sont plus susceptibles de laisser un long moment (environ 7 jours) avant d'envoyer un deuxième message.
+	Poser une question dans un premier message diminue en fait vos chances de réussite.
+	Les femmes glissent vers la droite en moyenne 1% du temps, alors que les hommes le font ~50% du temps.
+	Par application ouverte, les femmes glissent 3x plus de fois que les hommes.
+
 ## Conclusion 
+
+Les applications mobiles de rencontre sont devenues un moyen populaire de rencontrer des partenaires potentiels. Bien qu'il en existe plusieurs, l'une d'entre elles, récente, se distingue des autres. Tinder présente à ses utilisateurs des photos de personnes géographiquement proches, qu'ils peuvent apprécier ou non en fonction de leurs premières impressions. Si deux utilisateurs se plaisent, ils sont autorisés à entamer une conversation via la fonction de chat. Dans cet article, nous utilisons un ensemble de profils sélectionnés pour explorer le comportement des hommes et des femmes dans Tinder. Nous révélons des différences entre la façon dont les hommes et les femmes interagissent avec l'application, en mettant en évidence les stratégies employées. Les femmes obtiennent rapidement un grand nombre de correspondances, tandis que les hommes n'accumulent que lentement des correspondances. Pour approfondir nos conclusions, nous recueillons des données d'enquête afin de comprendre les intentions des utilisateurs de Tinder. Nos résultats indiquent notamment qu'un petit effort de toilettage des profils, en particulier pour les utilisateurs masculins, permet d'attirer l'attention.
   
-  LA CONCLUSION C'EST PAS LES SINGES VOUS INQUIETEZ PAS
 <p align="center">
   <img src="https://user-images.githubusercontent.com/115630274/204117133-f0664b7c-b6da-40e4-af31-bd342298db19.gif">
   </p>
-
-## Bibliographie
