@@ -118,9 +118,8 @@ Les hommes gays ont fait des applications de rencontre par téléphone, en parti
  <p align="center">
   <img src="https://user-images.githubusercontent.com/115630274/204116498-c8e0d30d-100e-48ad-9695-290f3ae5d488.png" width="550">
   </p> 
-
+  
  ##### Quelques conseils pour augmenter ses chances de réussite...
- 
  Utilisez Tinder à 21 heures un dimanche pour une audience maximale.
 	Préparez-vous à demander un numéro ou un rendez-vous entre le 20e et le 30e message.
 	Soyez positif, mais pas trop.
