@@ -14,6 +14,11 @@ Parmi les 3500 état-uniens interrogés par l’étude HCMST de 2017, (CHIFFRE) 
 
 Le 12 septembre 2012 marque l’apparition de Tinder. L’application de rencontre propose de « _swiper_ » pour faire savoir son intérêt quant à la mini-biographie et la photographie d’un autre utilisateur : vers la gauche pour un non, vers la droite pour un oui.<img align="right" width="275" height="185" src="https://user-images.githubusercontent.com/115630274/203504601-663bee3c-b829-4fbe-878e-48d0330153bc.gif"> Lorsque l’approbation est réciproque, alors il y a _**match**_. Aujourd’hui, Tinder compte plus de 50 millions d’utilisateurs dans le monde et il s’agit de l’une des applications de rencontres les plus téléchargées à l’échelle mondiale. La popularité grandissante des applications de rencontre est conduite par plusieurs facteurs. L’un étant l’accroissement des déplacements des personnes pour le travail, s’éloignant parfois d’amis ou de proches qui pouvaient jouer un rôle dans la rencontre amoureuse, la généralisation des smartphones et des algorithmes au service de notre quotidien. La crise de la COVID-19 et ses confinements ont également servi de cadre propice à la découverte de ces applications pour des personnes qui pouvaient s'avérer jusque-là hésitantes.
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115630274/204173675-f92c9ccd-ce2d-45ed-ae4b-17081ed7a135.jpeg)" width="750">
+  </p>
+
 Si il est reproché à Tinder de faire concurrence aux rencontres plus “traditionnelles”, c'est-à-dire via les amis ou la famille et celles sur le lieu de travail ou d’étude, les mécanismes de sélection qui s’opèrent dans l’appariement des partenaires restent fondamentalement les mêmes. En effet, durant un rassemblement, nous sommes confrontés à une multitude de personnes, et nous les évaluons en premier lieu selon leurs caractéristiques physiques. Ce qui change avec Tinder, c’est la prolifération des personnes auxquelles nous sommes exposés au quotidien, mais aussi le fait d’être confronté à tout ce que l’on rejette.
 
 <p align="center">
@@ -37,13 +42,16 @@ L’abondance de ces marqueurs de métadonnées démontre l’intérêt du publi
   <img src="https://user-images.githubusercontent.com/115630274/204172833-56ed2be0-9031-46a0-8df9-e83d0a6d37d7.png" width="550">
   </p>
 
-
 Pour Foucault, le néolibéralisme fait de la  société une sorte de  marché. Concernant Tinder, il s’agirait d’une économie des rencontres. L’important sur l’application est la performance, l’utilisateur doit être rentable, les gains en likes ou en rencontres, qualitatives ou quantitatives, doivent dépasser les efforts fournis pour justifier l’utilisation de l’application. 
 Tinder serait comme un gadget visant à augmenter ses performances, mais qui finalement se révèle fonctionnellement inutile pour remplir sa fonction initiale de favoriser des rencontres amoureuses.
 En effet, on trouve chez Tinder, les grands concepts du néolibéralisme : principe de libre marché, d’efficacité, de choix, de compétition et, donc, d’inégalité! 
 Alors que Tinder était originellement présenté comme une la possibilité d’allumer une flamme amoureuse, l’application multiplie les possibilités, les réseaux et le plaisir.
 
 ##### Les gestionnaires
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115630274/204173776-72c22f88-a3ac-4fef-96de-9dc578e7971f.jpeg" width="550">
+  </p>
 
 Si l’on parle d’exploitation des données et de profit, il importe de mentionner les acteurs principaux dudit profit. A la tête de Tinder se trouve Match Group, société fondée en 1986, prenant désormais la forme d’un conglomérat, coté en bourse. La première chose qui frappe lorsque l’on considère un tel groupe, c’est son importance dans le domaine du dating. La société possède un nombre impressionnant de plateformes de rencontre, parmi lesquelles OkCupid, Hinge, Meetic, Match.com et bien d’autres. A partir du lancement de Tinder en 2012, après son incubation au sein d’un incubateur partenaire du groupe, l’activité de Match Group se développe encore plus. Ce même groupe lance Tinder Gold en 2017, ce qui fait de Tinder l’application la plus rentable parmi celles qui ne sont pas des jeux. 
 
