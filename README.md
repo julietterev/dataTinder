@@ -114,6 +114,8 @@ Le statut de célibataire est peut-être devenu plus stable aux États-Unis.
 
 Parmi les hétérosexuels qui ont eu des rendez-vous, le taux d'utilisation des applications téléphoniques est plus élevé chez les femmes que chez les hommes. L'adoption plus rapide des applications de rencontre par téléphone par les femmes hétérosexuelles pourrait refléter les avantages de la sécurité (en ligne par rapport au hors ligne). La façon dont la plupart des applications téléphoniques exigent que les deux parties expriment leur intérêt avant de pouvoir communiquer peut avantager les femmes, par rapport aux interactions sociales ordinaires en face à face où les hommes s'attendent à dominer et à monopoliser les initiatives relationnelles (Sassler et Miller 2011).
 Les hommes gays ont fait des applications de rencontre par téléphone, en particulier Grindr, un élément central de leurs scènes de rencontre et d'accrochage. Comme l'ont montré Rosenfeld et Thomas (2012), les rencontres sur Internet en général sont plus utiles aux gays et aux lesbiennes qu'aux hétérosexuels, parce que les gays et les lesbiennes se trouvent toujours sur un marché des rencontres mince, où les partenaires potentiels sont difficiles à identifier dans les interactions sociales en face à face.
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/115630274/204116498-c8e0d30d-100e-48ad-9695-290f3ae5d488.png" width="550">
 </p> 
